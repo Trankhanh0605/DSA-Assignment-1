@@ -1,7 +1,8 @@
 # 📦 DSA Assignment 1 – VectorStore Implementation Using Linked List
 
 Welcome to the **first project** in the Data Structures and Algorithms (DSA) assignment series.  
-This project focuses on implementing a **VectorStore** using linked lists, following the specification provided.
+This project focuses on implementing a **VectorStore** using linked lists, following the specification provided.  
+⚖️ **Weight**: This assignment contributes **40%** to the overall grade of the major assignment.
 
 ---
 
